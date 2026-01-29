@@ -17,7 +17,7 @@
     "@kwitch/ui": "workspace:*",
     "axios": "^1.7.2",
     "mediasoup-client": "^3.7.16",
-    "next": "15.2.4",
+    "next": "16.1.5",
     "next-themes": "^0.2.1",
     "react": "catalog:react19",
     "react-dom": "catalog:react19",
